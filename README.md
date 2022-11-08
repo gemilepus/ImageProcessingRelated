@@ -23,3 +23,5 @@
 * [shubhampachori12110095/DeepMindBreak](https://github.com/shubhampachori12110095/DeepMindBreak) - Decensoring Hentai with Deep Neural Networks 
 * [CMU-Perceptual-Computing-Lab/openpos](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 * [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
+* [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - About
+Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
