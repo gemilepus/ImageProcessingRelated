@@ -8,3 +8,5 @@
 * [Nandaka/PixivUtil2](https://github.com/Nandaka/PixivUtil2) - Download images from Pixiv and more!
 * [lllyasviel/DanbooRegio](https://github.com/lllyasviel/DanbooRegion) - DanbooRegion: An Illustration Region Dataset (ECCV 2020)
 * [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
+* [phillipi/pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
+* [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints 🎨 (TOG2018/SIGGRAPH2018ASIA)
