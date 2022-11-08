@@ -22,4 +22,4 @@
 * [tkarras/progressive_growing_of_gans](https://github.com/tkarras/progressive_growing_of_gans) - Progressive Growing of GANs for Improved Quality, Stability, and Variation 
 * [shubhampachori12110095/DeepMindBreak](https://github.com/shubhampachori12110095/DeepMindBreak) - Decensoring Hentai with Deep Neural Networks 
 * [CMU-Perceptual-Computing-Lab/openpos](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-* [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) | | A list of all named GANs!
+* [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
