@@ -18,4 +18,7 @@
 * [marcbelmont/cnn-watermark-removal](https://github.com/marcbelmont/cnn-watermark-removal) - Fully convolutional deep neural network to remove transparent overlays from images
 * [qyzdao/ShadeSketch](https://github.com/qyzdao/ShadeSketch) - Implementation of "Learning to Shadow Hand-drawn Sketches" CVPR 2020 (Oral)
 * [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
-
+* [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch 
+* [tkarras/progressive_growing_of_gans](https://github.com/tkarras/progressive_growing_of_gans) - Progressive Growing of GANs for Improved Quality, Stability, and Variation 
+* [shubhampachori12110095/DeepMindBreak](https://github.com/shubhampachori12110095/DeepMindBreak) - Decensoring Hentai with Deep Neural Networks 
+* [CMU-Perceptual-Computing-Lab/openpose)](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
