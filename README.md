@@ -7,9 +7,7 @@
 * [runwayml/stable-diffusion](https://github.com/runwayml/stable-diffusion) - Latent Text-to-Image Diffusion
 * [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface
 
-
-
-###
+### other
 * [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
 * [phillipi/pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
 * [omerbt/Text2LIVE](https://github.com/omerbt/Text2LIVE) - Official Pytorch Implementation for "Text2LIVE: Text-Driven Layered Image and Video Editing" (ECCV 2022 Oral)
