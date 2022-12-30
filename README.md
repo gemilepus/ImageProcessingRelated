@@ -22,6 +22,8 @@
 * [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch 
 * [shubhampachori12110095/DeepMindBreak](https://github.com/shubhampachori12110095/DeepMindBreak) - Decensoring Hentai with Deep Neural Networks 
 * [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) - Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
+* [saic-mdal/lama](https://github.com/saic-mdal/lama) -  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
+
 
 ### Object Detection
 * [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
