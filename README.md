@@ -15,10 +15,13 @@
 * [shubhampachori12110095/DeepMindBreak](https://github.com/shubhampachori12110095/DeepMindBreak) - Decensoring Hentai with Deep Neural Networks 
 * [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) - Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
 * [saic-mdal/lama](https://github.com/saic-mdal/lama) -  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
+* [cloneofsimo/minDiffusion](https://github.com/cloneofsimo/minDiffusion) - Self-contained, minimalistic implementation of diffusion models with Pytorch.
 
 ### Object Detection
 * [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 * [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+* [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+* [musatyalab/openface](https://github.com/cmusatyalab/openface) - Face recognition with deep neural networks.
 
 ### Other
 * [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
