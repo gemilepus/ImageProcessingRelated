@@ -28,6 +28,7 @@
 * [lllyasviel/DanbooRegio](https://github.com/lllyasviel/DanbooRegion) - DanbooRegion: An Illustration Region Dataset (ECCV 2020)
 * [lllyasviel/ToonDecompose](https://github.com/lllyasviel/ToonDecompose) - A project to decompose the components in cartoon animations.
 * [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map.
+* [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 
 ### Tool
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
