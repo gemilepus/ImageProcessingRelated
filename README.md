@@ -5,6 +5,9 @@
 * [runwayml/stable-diffusion](https://github.com/runwayml/stable-diffusion) - Latent Text-to-Image Diffusion
 * [huggingface - stable-diffusion models](https://huggingface.co/models?other=stable-diffusion) - stable-diffusion models
 
+###### Model
+* [WarriorMama777/OrangeMixs](https://huggingface.co/WarriorMama777/OrangeMixs)
+
 ### Image-to-Image
 * [phillipi/pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
 * [omerbt/Text2LIVE](https://github.com/omerbt/Text2LIVE) - Official Pytorch Implementation for "Text2LIVE: Text-Driven Layered Image and Video Editing" (ECCV 2022 Oral)
