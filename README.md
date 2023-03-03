@@ -7,6 +7,7 @@
 ###### Model
 * [huggingface - stable-diffusion models](https://huggingface.co/models?other=stable-diffusion) - stable-diffusion models
 * [WarriorMama777/OrangeMixs](https://huggingface.co/WarriorMama777/OrangeMixs)
+* [andite/anything-v4.0](https://huggingface.co/andite/anything-v4.0)
 
 ###### Tool
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
