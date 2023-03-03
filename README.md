@@ -3,9 +3,9 @@
 * [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 * [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 * [runwayml/stable-diffusion](https://github.com/runwayml/stable-diffusion) - Latent Text-to-Image Diffusion
-* [huggingface - stable-diffusion models](https://huggingface.co/models?other=stable-diffusion) - stable-diffusion models
 
 ###### Model
+* [huggingface - stable-diffusion models](https://huggingface.co/models?other=stable-diffusion) - stable-diffusion models
 * [WarriorMama777/OrangeMixs](https://huggingface.co/WarriorMama777/OrangeMixs)
 
 ###### Tool
