@@ -3,6 +3,7 @@
 * [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 * [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 * [runwayml/stable-diffusion](https://github.com/runwayml/stable-diffusion) - Latent Text-to-Image Diffusion
+* [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models
 
 ###### Model
 * [huggingface - stable-diffusion models](https://huggingface.co/models?other=stable-diffusion) - stable-diffusion models
@@ -32,6 +33,10 @@
 * [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 * [musatyalab/openface](https://github.com/cmusatyalab/openface) - Face recognition with deep neural networks.
 
+### OCR
+* [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine
+* [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+
 ### Tool
 * [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface
 * [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
@@ -45,9 +50,7 @@
 * [lllyasviel/DanbooRegio](https://github.com/lllyasviel/DanbooRegion) - DanbooRegion: An Illustration Region Dataset (ECCV 2020)
 * [lllyasviel/ToonDecompose](https://github.com/lllyasviel/ToonDecompose) - A project to decompose the components in cartoon animations.
 * [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map.
-* [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 * [LAION](https://laion.ai/) - LAION, as a non-profit organization, provides datasets, tools and models to liberate machine learning research
 * [TencentARC/T2I-Adapter](https://github.com/TencentARC/T2I-Adapter) - T2I-Adapter
-* [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models
 
 
