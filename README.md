@@ -13,6 +13,7 @@
 ###### Tool
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 * [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
+* [p1atdev/stable-diffusion-webui-adverse-cleaner-tab](https://github.com/p1atdev/stable-diffusion-webui-adverse-cleaner-tab) - An extension of AUTOMATIC1111's webui to remove adverse noise from images.
 
 ### Image-to-Image
 * [phillipi/pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
